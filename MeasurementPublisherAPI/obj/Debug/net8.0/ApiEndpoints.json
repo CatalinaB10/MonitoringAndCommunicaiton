@@ -1,0 +1,54 @@
+[
+  {
+    "ContainingType": "MeasurementPublisherAPI.Controllers.MeasurementController",
+    "Method": "Post",
+    "RelativePath": "api/Measurement",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "measurement",
+        "Type": "MeasurementPublisherAPI.Models.Measurement",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "MeasurementPublisherAPI.Models.Measurement",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "MeasurementPublisherAPI.Controllers.MeasurementController",
+    "Method": "GetMeasurement",
+    "RelativePath": "api/Measurement/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "MeasurementPublisherAPI.Models.Measurement",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]
