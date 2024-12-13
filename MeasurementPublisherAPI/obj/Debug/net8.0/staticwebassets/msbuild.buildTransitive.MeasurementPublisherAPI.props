@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\buildMultiTargeting\MeasurementPublisherAPI.props" />
-</Project>

@@ -7,9 +7,10 @@ namespace MeasurementPublisherAPI.Context
     {
         public MeasurementContext(DbContextOptions<MeasurementContext> options) : base(options)
         {
-            //Database.EnsureCreated();
+            Database.EnsureCreated();
         }
 
         public DbSet<Measurement> Measurements { get; set; } = default!;
+        public DbSet<Device> Devices { get; set; } = default!;
     }
 }

@@ -6,12 +6,11 @@ namespace MeasurementPublisherAPI.Models
     {
         [Key]
         [Required]
-        public int Id { get; set; }
+        public DateTime Timestamp { get; set; }
         [Required]
         public double Value { get; set; }
         [Required]
-        public Guid DeviceId { get; set; }
-        [Required]
-        public DateTime Timestamp { get; set; }
+        public Guid? DeviceId { get; set; }
+       
     }
 }

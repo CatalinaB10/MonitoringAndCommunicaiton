@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MeasurementPublisherAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f6d242c92e39e33d110368b9051d8d186193372a")]
 [assembly: System.Reflection.AssemblyProductAttribute("MeasurementPublisherAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MeasurementPublisherAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

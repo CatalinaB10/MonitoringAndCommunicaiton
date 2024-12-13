@@ -1,0 +1,188 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\catalina.buzan\\TEMA SD2\\MonitoringAndCommunication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{860CBBB7-3AF1-4A1D-9264-EFE7933CACB5}|MeasurementPublisherAPI\\MeasurementPublisherAPI.csproj|c:\\users\\catalina.buzan\\tema sd2\\monitoringandcommunication\\measurementpublisherapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{860CBBB7-3AF1-4A1D-9264-EFE7933CACB5}|MeasurementPublisherAPI\\MeasurementPublisherAPI.csproj|solutionrelative:measurementpublisherapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{860CBBB7-3AF1-4A1D-9264-EFE7933CACB5}|MeasurementPublisherAPI\\MeasurementPublisherAPI.csproj|c:\\users\\catalina.buzan\\tema sd2\\monitoringandcommunication\\measurementpublisherapi\\services\\deviceconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{860CBBB7-3AF1-4A1D-9264-EFE7933CACB5}|MeasurementPublisherAPI\\MeasurementPublisherAPI.csproj|solutionrelative:measurementpublisherapi\\services\\deviceconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{860CBBB7-3AF1-4A1D-9264-EFE7933CACB5}|MeasurementPublisherAPI\\MeasurementPublisherAPI.csproj|c:\\users\\catalina.buzan\\tema sd2\\monitoringandcommunication\\measurementpublisherapi\\services\\messageconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{860CBBB7-3AF1-4A1D-9264-EFE7933CACB5}|MeasurementPublisherAPI\\MeasurementPublisherAPI.csproj|solutionrelative:measurementpublisherapi\\services\\messageconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{860CBBB7-3AF1-4A1D-9264-EFE7933CACB5}|MeasurementPublisherAPI\\MeasurementPublisherAPI.csproj|c:\\users\\catalina.buzan\\tema sd2\\monitoringandcommunication\\measurementpublisherapi\\controllers\\measurementcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{860CBBB7-3AF1-4A1D-9264-EFE7933CACB5}|MeasurementPublisherAPI\\MeasurementPublisherAPI.csproj|solutionrelative:measurementpublisherapi\\controllers\\measurementcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{860CBBB7-3AF1-4A1D-9264-EFE7933CACB5}|MeasurementPublisherAPI\\MeasurementPublisherAPI.csproj|c:\\users\\catalina.buzan\\tema sd2\\monitoringandcommunication\\measurementpublisherapi\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{860CBBB7-3AF1-4A1D-9264-EFE7933CACB5}|MeasurementPublisherAPI\\MeasurementPublisherAPI.csproj|solutionrelative:measurementpublisherapi\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{860CBBB7-3AF1-4A1D-9264-EFE7933CACB5}|MeasurementPublisherAPI\\MeasurementPublisherAPI.csproj|c:\\users\\catalina.buzan\\tema sd2\\monitoringandcommunication\\measurementpublisherapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{860CBBB7-3AF1-4A1D-9264-EFE7933CACB5}|MeasurementPublisherAPI\\MeasurementPublisherAPI.csproj|solutionrelative:measurementpublisherapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{860CBBB7-3AF1-4A1D-9264-EFE7933CACB5}|MeasurementPublisherAPI\\MeasurementPublisherAPI.csproj|c:\\users\\catalina.buzan\\tema sd2\\monitoringandcommunication\\measurementpublisherapi\\context\\measurementcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{860CBBB7-3AF1-4A1D-9264-EFE7933CACB5}|MeasurementPublisherAPI\\MeasurementPublisherAPI.csproj|solutionrelative:measurementpublisherapi\\context\\measurementcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{860CBBB7-3AF1-4A1D-9264-EFE7933CACB5}|MeasurementPublisherAPI\\MeasurementPublisherAPI.csproj|c:\\users\\catalina.buzan\\tema sd2\\monitoringandcommunication\\measurementpublisherapi\\models\\device.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{860CBBB7-3AF1-4A1D-9264-EFE7933CACB5}|MeasurementPublisherAPI\\MeasurementPublisherAPI.csproj|solutionrelative:measurementpublisherapi\\models\\device.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9730CDA5-1BE3-4FC6-B521-143A9035C376}|Solution Items{9730CDA5-1BE3-4FC6-B521-143A9035C376}|C:\\Users\\catalina.buzan\\TEMA SD2\\MonitoringAndCommunication\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{9730CDA5-1BE3-4FC6-B521-143A9035C376}|Solution Items{9730CDA5-1BE3-4FC6-B521-143A9035C376}|solutionrelative:docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 178,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\catalina.buzan\\TEMA SD2\\MonitoringAndCommunication\\MeasurementPublisherAPI\\Dockerfile",
+              "RelativeDocumentMoniker": "MeasurementPublisherAPI\\Dockerfile",
+              "ToolTip": "C:\\Users\\catalina.buzan\\TEMA SD2\\MonitoringAndCommunication\\MeasurementPublisherAPI\\Dockerfile",
+              "RelativeToolTip": "MeasurementPublisherAPI\\Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-12-12T10:18:37.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MeasurementController.cs",
+              "DocumentMoniker": "C:\\Users\\catalina.buzan\\TEMA SD2\\MonitoringAndCommunication\\MeasurementPublisherAPI\\Controllers\\MeasurementController.cs",
+              "RelativeDocumentMoniker": "MeasurementPublisherAPI\\Controllers\\MeasurementController.cs",
+              "ToolTip": "C:\\Users\\catalina.buzan\\TEMA SD2\\MonitoringAndCommunication\\MeasurementPublisherAPI\\Controllers\\MeasurementController.cs",
+              "RelativeToolTip": "MeasurementPublisherAPI\\Controllers\\MeasurementController.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAowE8AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T17:00:21.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MessageConsumer.cs",
+              "DocumentMoniker": "C:\\Users\\catalina.buzan\\TEMA SD2\\MonitoringAndCommunication\\MeasurementPublisherAPI\\Services\\MessageConsumer.cs",
+              "RelativeDocumentMoniker": "MeasurementPublisherAPI\\Services\\MessageConsumer.cs",
+              "ToolTip": "C:\\Users\\catalina.buzan\\TEMA SD2\\MonitoringAndCommunication\\MeasurementPublisherAPI\\Services\\MessageConsumer.cs",
+              "RelativeToolTip": "MeasurementPublisherAPI\\Services\\MessageConsumer.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAADwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T07:05:43.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\catalina.buzan\\TEMA SD2\\MonitoringAndCommunication\\MeasurementPublisherAPI\\Program.cs",
+              "RelativeDocumentMoniker": "MeasurementPublisherAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\catalina.buzan\\TEMA SD2\\MonitoringAndCommunication\\MeasurementPublisherAPI\\Program.cs",
+              "RelativeToolTip": "MeasurementPublisherAPI\\Program.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAACwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T12:48:26.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\catalina.buzan\\TEMA SD2\\MonitoringAndCommunication\\MeasurementPublisherAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "MeasurementPublisherAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\catalina.buzan\\TEMA SD2\\MonitoringAndCommunication\\MeasurementPublisherAPI\\appsettings.json",
+              "RelativeToolTip": "MeasurementPublisherAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-18T12:52:13.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "docker-compose.yml",
+              "DocumentMoniker": "C:\\Users\\catalina.buzan\\TEMA SD2\\MonitoringAndCommunication\\docker-compose.yml",
+              "RelativeDocumentMoniker": "docker-compose.yml",
+              "ToolTip": "C:\\Users\\catalina.buzan\\TEMA SD2\\MonitoringAndCommunication\\docker-compose.yml",
+              "RelativeToolTip": "docker-compose.yml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2024-12-10T17:15:12.605Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MeasurementContext.cs",
+              "DocumentMoniker": "C:\\Users\\catalina.buzan\\TEMA SD2\\MonitoringAndCommunication\\MeasurementPublisherAPI\\Context\\MeasurementContext.cs",
+              "RelativeDocumentMoniker": "MeasurementPublisherAPI\\Context\\MeasurementContext.cs",
+              "ToolTip": "C:\\Users\\catalina.buzan\\TEMA SD2\\MonitoringAndCommunication\\MeasurementPublisherAPI\\Context\\MeasurementContext.cs",
+              "RelativeToolTip": "MeasurementPublisherAPI\\Context\\MeasurementContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T07:58:41.503Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Device.cs",
+              "DocumentMoniker": "C:\\Users\\catalina.buzan\\TEMA SD2\\MonitoringAndCommunication\\MeasurementPublisherAPI\\Models\\Device.cs",
+              "RelativeDocumentMoniker": "MeasurementPublisherAPI\\Models\\Device.cs",
+              "ToolTip": "C:\\Users\\catalina.buzan\\TEMA SD2\\MonitoringAndCommunication\\MeasurementPublisherAPI\\Models\\Device.cs",
+              "RelativeToolTip": "MeasurementPublisherAPI\\Models\\Device.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T07:58:58.056Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 272,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:4:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DeviceConsumer.cs",
+              "DocumentMoniker": "C:\\Users\\catalina.buzan\\TEMA SD2\\MonitoringAndCommunication\\MeasurementPublisherAPI\\Services\\DeviceConsumer.cs",
+              "RelativeDocumentMoniker": "MeasurementPublisherAPI\\Services\\DeviceConsumer.cs",
+              "ToolTip": "C:\\Users\\catalina.buzan\\TEMA SD2\\MonitoringAndCommunication\\MeasurementPublisherAPI\\Services\\DeviceConsumer.cs",
+              "RelativeToolTip": "MeasurementPublisherAPI\\Services\\DeviceConsumer.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwB4AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T13:11:13.748Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

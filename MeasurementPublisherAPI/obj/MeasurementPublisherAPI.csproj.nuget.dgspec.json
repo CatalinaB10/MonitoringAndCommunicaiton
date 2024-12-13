@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\catalina.buzan\\source\\repos\\MonitoringAndCommunication\\MeasurementPublisherAPI\\MeasurementPublisherAPI.csproj": {}
+    "C:\\Users\\catalina.buzan\\TEMA SD2\\MonitoringAndCommunication\\MeasurementPublisherAPI\\MeasurementPublisherAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\catalina.buzan\\source\\repos\\MonitoringAndCommunication\\MeasurementPublisherAPI\\MeasurementPublisherAPI.csproj": {
+    "C:\\Users\\catalina.buzan\\TEMA SD2\\MonitoringAndCommunication\\MeasurementPublisherAPI\\MeasurementPublisherAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\catalina.buzan\\source\\repos\\MonitoringAndCommunication\\MeasurementPublisherAPI\\MeasurementPublisherAPI.csproj",
+        "projectUniqueName": "C:\\Users\\catalina.buzan\\TEMA SD2\\MonitoringAndCommunication\\MeasurementPublisherAPI\\MeasurementPublisherAPI.csproj",
         "projectName": "MeasurementPublisherAPI",
-        "projectPath": "C:\\Users\\catalina.buzan\\source\\repos\\MonitoringAndCommunication\\MeasurementPublisherAPI\\MeasurementPublisherAPI.csproj",
+        "projectPath": "C:\\Users\\catalina.buzan\\TEMA SD2\\MonitoringAndCommunication\\MeasurementPublisherAPI\\MeasurementPublisherAPI.csproj",
         "packagesPath": "C:\\Users\\catalina.buzan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\catalina.buzan\\source\\repos\\MonitoringAndCommunication\\MeasurementPublisherAPI\\obj\\",
+        "outputPath": "C:\\Users\\catalina.buzan\\TEMA SD2\\MonitoringAndCommunication\\MeasurementPublisherAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -50,22 +50,6 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
-            "MassTransit": {
-              "target": "Package",
-              "version": "[8.3.1, )"
-            },
-            "MassTransit.AspNetCore": {
-              "target": "Package",
-              "version": "[7.3.1, )"
-            },
-            "MassTransit.Extensions.DependencyInjection": {
-              "target": "Package",
-              "version": "[7.3.1, )"
-            },
-            "MassTransit.RabbitMQ": {
-              "target": "Package",
-              "version": "[8.3.1, )"
-            },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[8.0.10, )"
@@ -96,7 +80,7 @@
             },
             "RabbitMQ.Client": {
               "target": "Package",
-              "version": "[7.0.0, )"
+              "version": "[6.4.0, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
